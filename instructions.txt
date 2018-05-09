@@ -1,5 +1,5 @@
 //Include the following line within your HEAD Tag
-<link href="&mvte:global:theme_path;/css/style.php?files=&mvt:page__code;" rel="stylesheet">
+<link href="&mvte:global:theme_path;/style.php?files=&mvt:page__code;" rel="stylesheet">
 
 //Add styles.php to your theme's css folder
 
