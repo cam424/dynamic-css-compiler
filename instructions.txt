@@ -1,0 +1,14 @@
+//Include the following line within your HEAD Tag
+<link href="&mvte:global:theme_path;/css/style.php?files=&mvt:page__code;" rel="stylesheet">
+
+//Add styles.php to your theme's css folder
+
+//Remove the following stylesheets using @imports as they will no longer be necessary
+site-styles.css
+core/css/core-styles.css
+core/css/base/_base.css
+core/css/components/_components.css
+core/css/elements/_elements.css
+core/css/objects/_objects.css
+core/css/utilities/_utilities.css
+extensions/_extensions.css
