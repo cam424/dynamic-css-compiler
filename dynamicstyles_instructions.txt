@@ -3,6 +3,10 @@
 
 //Add styles.php to your theme's css folder
 
+//Move the following files to the css folder (For Shadows theme)
+core/css/utilities/ReadyTheme.woff
+ui/css/ShadowsFontPack.woff
+
 //Remove the following stylesheets using @imports as they will no longer be necessary
 site-styles.css
 core/css/core-styles.css
