@@ -1,3 +1,5 @@
+//Disable site-styles.css under CSS Resources in the Miva CMS
+
 //Include the following line within your HEAD Tag
 <link href="&mvte:global:theme_path;/style.php?files=&mvt:page__code;" rel="stylesheet">
 
@@ -16,3 +18,5 @@ core/css/elements/_elements.css
 core/css/objects/_objects.css
 core/css/utilities/_utilities.css
 extensions/_extensions.css
+
+*Instructions are for Miva's default Shadows theme and may differ according to your theme selection and server set up.
